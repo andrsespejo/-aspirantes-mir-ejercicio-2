@@ -8,4 +8,3 @@ sandra_garcia
 Oswaldo Castañeda
 Alexandra Valderrama
 Castromiguel18
-Daniela Gonzales
